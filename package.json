@@ -1,6 +1,6 @@
 {
-    "name": "fcc-secure-node-practices",
-
+    "name": "fcc-learn-npm-package-json",
+    "author": "soulwax",
     "dependencies": {
         "express": "^4.14.0"
     },
@@ -10,7 +10,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/soulwax/SafeHaven"
+        "url": "https://idontknow/todo.git"
     }
-    "author": "soulwax"
 }
